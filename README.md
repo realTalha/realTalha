@@ -2,6 +2,7 @@
 
 ## Full-Stack Developer | Python · Django · React
 
+
 I'm a Full-Stack Developer with hands-on experience building web applications using **Python**, **Django**, **Django REST Framework**, and **React**.
 
 My experience includes a paid client project for **inventory and accounting**, as well as personal projects involving **real-time communication**, **AI-powered search**, and **scheduled background tasks**.
